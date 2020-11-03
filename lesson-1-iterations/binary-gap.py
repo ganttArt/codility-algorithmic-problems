@@ -43,6 +43,8 @@ def solution(N):
 
     return max_length
 
+# time complexity: O(n)
+# space complexity: O(1)
 # score: 100%
 # my submission at:
 # https://app.codility.com/demo/results/trainingNPN2PF-XJD/
